@@ -21,4 +21,4 @@
 
   - "index.jsp" :  Genera una "Page Web", a partir de los parametros de la peticion 
        del "index.jsp",mediante instancia de los métodos 
-       ("create","edit","destroy","List") de la clase "UsuarioJpaController".
+       de la clase "UsuarioJpaController".
