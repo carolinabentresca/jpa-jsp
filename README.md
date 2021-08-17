@@ -16,7 +16,7 @@
 #PAQUETE "Controller" :    
 
   - CLASE "UsuarioJpaController" :  Persistiendo a la entidad "Usuario", 
-       mediante los métodos "CRUD"("create","edit","destroy","List")
+       crea un EntityManager y realiza las operaciones("create","edit","destroy","List")
                 
 #CARPETA "Web" : 
 
