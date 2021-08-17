@@ -6,7 +6,8 @@
 
 #CARPETA "conf" :
 
-   - ARCHIVO "persistence.xml" :  Genera la conexion a la base de datos "mybd".
+   - ARCHIVO "persistence.xml" :  Genera el nombre de la unidad de persistencia "JpayJspPU",
+      el nombre de la clase dominio "Model.Usuario", y la conexion a la base de datos "mybd".
 
 #PAQUETE "Model" :  
 
